@@ -1,7 +1,7 @@
 (function (global) {
     'use strict';
 
-    var util = newUtil();
+    var utill = newUtil();
     var inliner = newInliner();
     var fontFaces = newFontFaces();
     var images = newImages();
